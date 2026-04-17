@@ -1,4 +1,4 @@
-# Luca's Portfolio - React + Framer Motion + GSAP + Lenis
+#  Portfolio - React + Framer Motion + GSAP + Lenis
 
 A modern, animated portfolio built with React featuring smooth scrolling and sophisticated animations.
 
@@ -78,6 +78,10 @@ Adjust Lenis configuration in `App.jsx`:
 
 All modern browsers that support ES6 and CSS Grid.
 
-## License
+---
 
-MIT
+## live link https://portfolio-azure-three-rr5xp7fqbf.vercel.app/
+
+## Contact
+
+
